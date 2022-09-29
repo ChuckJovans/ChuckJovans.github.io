@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ChatBot System & Food Ordering System**
 
-- 🌱 I’m currently learning **Lavarel, Django**
+- 🌱 I’m currently learning **Lavarel, Django, Flutter**
 
 - 🤝 I’m looking for help with **Multi-lingual Chatbot Systems**
 
